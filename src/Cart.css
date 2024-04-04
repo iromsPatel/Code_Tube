@@ -1,0 +1,44 @@
+.outerDiv1{
+        display: flex;
+        justify-content:space-around;
+        background-color: rgba(230, 222, 213, 0.686);
+        height: 235px;
+        width: 60%;
+        margin: 20px;
+        margin-bottom: 90px;
+}
+.coursePhoto img{
+      margin: 2%;
+      padding: 6%;
+      height:200px;
+      width: 200px;
+      background: rgba(202, 194, 173, 0.896);
+}
+
+.insideDiv{
+    height: 40%;
+    width: auto;
+    margin-left: 40px;
+}
+
+.details{
+    overflow-wrap: break-word; 
+}
+  
+.footerPart{
+     height: auto;
+     width: auto;
+}
+.footerPart span{
+  padding-right: 100px;
+}
+aside{
+     height: 235px;
+    float: right;
+    margin-right: -380px;
+}
+.aside_Part img{
+    height: 200px;
+    width: 200px;
+    margin-bottom:0px;
+}

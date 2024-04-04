@@ -1,0 +1,20 @@
+.outerDiv{
+    display: flex;
+    margin: 8px;
+    height: 100px;
+    width: auto;
+    background-color: aqua;
+    margin: auto;
+}
+.icon{
+    height: 70px;
+    width: 70px;
+}
+.outerDiv div{
+    padding-left:700px;
+    height: 100px;
+    width: 100px;
+}
+.insideDiv span{
+   
+}
